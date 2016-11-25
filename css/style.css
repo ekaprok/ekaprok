@@ -494,7 +494,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #50CB86;
   padding-left: 10px;
   padding-right: 10px;
-  color: #05c4c4!important;
+  color: #47bdee!important;
 }
 .fh5co-social-icons li a i {
   font-size: 20px;
@@ -692,7 +692,7 @@ form label {
 
 .fh5co-bg-section {
   position: relative;
-  background-color: #05c4c4;
+  background-color: #47bdee;
   /*background: #005a8f;
   background: -moz-linear-gradient(45deg, #005a8f 0%, #ff61b3 100%);
   background: -webkit-gradient(left bottom, right top, color-stop(0%, #005a8f), color-stop(100%, #ff61b3));
