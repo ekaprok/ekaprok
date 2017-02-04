@@ -1069,7 +1069,7 @@ form label {
 .work-grid .desc .love a {
   background: #E04462;
 }
-.work-grid .desc:hover {
+.work-grid:hover .desc {
   opacity: 1;
   background: rgba(0, 0, 0. 0.5);
 }
