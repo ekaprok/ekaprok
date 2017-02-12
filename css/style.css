@@ -7,6 +7,10 @@
 }
 /*Edits*/
 
+.emoji {
+  font-size: 2.5em;
+}
+
 .padding-zero {
   padding-right: 0;
   padding-left: 0;
